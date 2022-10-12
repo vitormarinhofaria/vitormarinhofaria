@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitormarinhofaria&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&line_height=28" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitormarinhofaria&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat" style="margin-top: 8rem;margin-right=8rem">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormarinhofaria&layout=compact&langs_count=10&theme=dracula&hide=c" />
 </a>
