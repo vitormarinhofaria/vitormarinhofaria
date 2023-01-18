@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats](https://github.com/vitormarinhofaria?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitormarinhofaria&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&line_height=28" />
 </a>
 
 ###
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat](https://github.com/vitormarinhofaria?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormarinhofaria&layout=compact&langs_count=10&theme=dracula&hide=c" />
 </a>
