@@ -29,5 +29,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormarinhofaria&layout=compact&langs_count=14&theme=dracula" />
 </a>-->
 <a href="https://github.com/vitormarinhofaria?tab=repositories">
-  <img align="center" src="https://github-readme-stats-93wwa0lg2-vitormarinhofaria.vercel.app/api/top-langs/?username=vitormarinhofaria&layout=compact&langs_count=14&theme=dracula" />
+  <img align="center" src="https://github-readme-stats-kqdiowpuj-vitormarinhofaria.vercel.app/api/top-langs/?username=vitormarinhofaria&layout=compact&langs_count=14&theme=dracula" />
 </a>
