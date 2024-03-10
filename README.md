@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ###
 
-<a href="https://github.com/vitormarinhofaria?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormarinhofaria&layout=compact&langs_count=14&theme=dracula" />
-</a>
 <!--<a href="https://github.com/vitormarinhofaria?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormarinhofaria&layout=compact&langs_count=14&theme=dracula" />
+</a>-->
+<a href="https://github.com/vitormarinhofaria?tab=repositories">
   <img align="center" src="https://github-readme-stats-puce-one-95.vercel.app/api/top-langs/?username=vitormarinhofaria&layout=compact&langs_count=10&theme=dracula" />
-</a>00>
+</a>
